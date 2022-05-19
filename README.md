@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Will-Irvin
 - I'm currently a CS major at Purdue University.
-- I am in my freshman year of college.
+- I am in my sophomore year of college.
 
 
 <!---
